@@ -1,4 +1,4 @@
-# This is a project to get all network data and show it off in a beauty user-friendly interface..
+# This is a project to get all network data and show it off in a beautiful user-friendly interface..
 
 # how to set up?
 
